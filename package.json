@@ -27,21 +27,21 @@
     "docs": "yuidoc ."
   },
   "dependencies": {
-    "iconv-lite": "^0.4.8",
-    "pako": "^0.2.6",
-    "pngjs": "2.3.1",
-    "request": "^2.55.0",
-    "stream-buffers": "1.0.1",
-    "underscore": "1.7.0"
+    "iconv-lite": "^0.4.19",
+    "pako": "^1.0.6",
+    "pngjs": "3.3.0",
+    "request": "^2.83.0",
+    "stream-buffers": "2.2.0",
+    "underscore": "1.8.3"
   },
   "devDependencies": {
-    "chai": "1.9.2",
-    "coveralls": "2.11.2",
-    "codeclimate-test-reporter": "0.0.4",
-    "istanbul": "0.3.2",
-    "mocha": "1.21.4",
-    "sinon": "1.12.2",
-    "sinon-chai": "2.7.0",
-    "yuidocjs": "0.3.50"
+    "chai": "4.1.2",
+    "coveralls": "3.0.0",
+    "codeclimate-test-reporter": "0.5.0",
+    "istanbul": "0.4.5",
+    "mocha": "4.0.1",
+    "sinon": "4.1.2",
+    "sinon-chai": "2.14.0",
+    "yuidocjs": "0.10.2"
   }
 }
